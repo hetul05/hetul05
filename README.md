@@ -24,9 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetul05&show_icons=true&locale=en" alt="hetul05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetul05&" alt="hetul05" /></p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
